@@ -14,5 +14,7 @@ This repository contains projects I have worked on throughout my data analysis j
 * Developed a dashboard to analyze insurance claims made by various types of vehicle owners.
 * The dashboard serves as a tool for updating and revising the risk profiles of vehicles.
 
-
+**[Health Care Analysis - Neural Network Model (TensorFlow)](https://github.com/Ranjith-9/Projects/tree/main/HeathCare_Analysis)**
+* Developed a neural network model with 96% accuracy using Tensorflow library to classify patient's condition 
+* Optimized the model to prevent overfitting and enhance overall generalization. 
 
